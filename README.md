@@ -1,16 +1,6 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+Create a Single app page in Javascript where the user can create artistic designs
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
 
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+![](image/Screenshot-2018-7-1PixelArtMaker.png)
